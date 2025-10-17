@@ -52,6 +52,7 @@ If you do not supply a command, you'll be dropped into a `bash` shell where you'
 * Describe how to use `iiod`.
 * Describe how to add software.
 * Confirm that `python` works, so you can use the examples in [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org).
+* Describe the `ssh` settings
 * Likely plenty more.
 
 
@@ -64,3 +65,4 @@ If you do not supply a command, you'll be dropped into a `bash` shell where you'
 * [Hacking the ADALM-PLUTO](https://wiki.analog.com/university/tools/pluto/hackers)
 * [ADALM-PLUTO Overview](https://wiki.analog.com/university/tools/pluto)
 * [One Liner to Download the Latest Release from Github Repo](https://gist.github.com/steinwaywhw/a4cd19cda655b8249d908261a62687f8)
+* [Customizing the Pluto configuration](https://wiki.analog.com/university/tools/pluto/users/customizing)
